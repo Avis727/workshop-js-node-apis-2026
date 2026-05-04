@@ -18,6 +18,7 @@ You will be exposed to basics behind the main communication protocol online webs
 
 * [https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1 ](https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1)
 * Recording link for first half: [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97befe24-9658-4d5f-9482-b43e002154a1](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97befe24-9658-4d5f-9482-b43e002154a1)
+* Recording link for second half: [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=40b61872-6681-4bf9-ad0d-b43e003ebb72](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=40b61872-6681-4bf9-ad0d-b43e003ebb72)
 
 ## Examples & Practice
 
